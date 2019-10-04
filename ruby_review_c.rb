@@ -136,4 +136,4 @@ puts sort_digits(21445)
 puts sort_digits(145263)
 
 # Input: 1254859723 Output: 9875543221
-puts sort_digits(9875543221)
+puts sort_digits(1254859723)
